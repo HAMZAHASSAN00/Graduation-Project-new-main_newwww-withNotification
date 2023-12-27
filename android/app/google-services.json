@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "149431166595",
+    "firebase_url": "https://esp32demo-fcad6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "esp32demo-fcad6",
+    "storage_bucket": "esp32demo-fcad6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149431166595:android:a9ad210c58effc28365db6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPUQJN1yjyO-tKgYYy-JLpgdMOL3C1Q8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
